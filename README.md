@@ -97,8 +97,8 @@ We 💖 contributions! Want to add more features? Fix a bug? Create pull request
 
 ## 📩 **Contact**
 Got questions or feedback? Reach out anytime! 📩  
-- **Email**: devasri472l@example.com  
-- **GitHub**: [@ydevasri472](https://github.com/devasri472)  
+- **Email**: devasri472@example.com  
+- **GitHub**: [@devasri472](https://github.com/devasri472)  
 
 ---
 
