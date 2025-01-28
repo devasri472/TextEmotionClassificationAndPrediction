@@ -1,4 +1,4 @@
-✨ Text Emotion Classification and Prediction 🎭💡
+✨ #Text Emotion Classification and Prediction 🎭💡
 Welcome to the Text Emotion Classification and Prediction project! 🚀
 This project is all about understanding human emotions 😄😢😡🤔 conveyed through text using the power of Artificial Intelligence 🤖 and Natural Language Processing (NLP) 🧠📚.
 
