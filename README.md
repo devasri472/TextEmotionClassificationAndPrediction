@@ -112,17 +112,6 @@ Here's what powers this project:
 
 ---
 
-## 🚀 **Performance Metrics**
-
-- **Logistic Regression Accuracy**:
-- **SVC Accuracy**:
-- **Bagging Accuracy**:
-- **LightGBM Accuracy**:
-- **Extra Trees Accuracy**:
-- **Voting Classifier Accuracy**:
-
----
-
 ## 🤝 **Contributions**
 
 We 💖 contributions! Want to add more features? Fix a bug? Create pull requests or open issues. Together, we can make this project awesome! 🌟
